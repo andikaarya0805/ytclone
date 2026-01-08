@@ -1,0 +1,1 @@
+com.indiemusic.service.DeezerService
